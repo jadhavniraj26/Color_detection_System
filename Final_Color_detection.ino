@@ -1,7 +1,3 @@
-/***
-  Rui Santos
-  Complete project details at http://randomnerdtutorials.com  
-***/
 
 // TCS230 or TCS3200 pins wiring to Arduino
 #define S0 4
